@@ -1,6 +1,6 @@
 I'm Rebecca AK.
 
-An Incoming Accounting & Finance Graduate bridging the gap between financial compliance and data architecture.
+An Incoming Accounting & Finance Graduate bridging the gap between financial compliance and data architecture in SaaS Companies.
 
 ---
 Skill Set:

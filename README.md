@@ -11,6 +11,8 @@ My current portfolio is built around Thornfield Group, a simulated £40m ARR UK 
 
 I’m especially interested in the intersection of financial analytics, business operations, and strategic consulting within high-growth software companies.
 
-📬 Reach me via:
+📬 Reach me via my:
+
 LinkedIn: [https://www.linkedin.com/in/rebecca-amaning-kwarteng-05a4b6283/]
+
 Email: [Amaningkwartengrebecca@gmail.com]

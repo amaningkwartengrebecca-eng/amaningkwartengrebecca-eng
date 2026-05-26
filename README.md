@@ -1,10 +1,16 @@
-#  Hi, I'm Rebecca A-K
+Im Rebecca,a final-year Accounting & finance student building analytics and financial strategy projects focused on SaaS businesses.
 
-I am an incoming Accounting & Finance graduate venturing into **SaaS Financial Operations & Analytics**. I use Power BI, SQL, and Advanced Excel to build data products that solve operational, commercial, and strategic problems for software enterprises, demonstrated through my comprehensive portfolio case study tracking the full financial lifecycle of a (*fictional*) UK B2B SaaS company, **Thornfield Group** (£40m ARR).
+Using Power BI, SQL, and Excel, I create commercially driven case studies that explore how data can support operational oversight, risk management, and executive decision-making.
 
----
+My current portfolio is built around Thornfield Group, a simulated £40m ARR UK B2B SaaS company, covering projects across:
 
-### 📬 You can reach out to me via:
- **LinkedIn**(https://www.linkedin.com/in/rebecca-amaning-kwarteng-05a4b6283/)
- 
-  Email me at **[Amaningkwartengrebecca@gmail.com]**
+* procurement fraud detection
+* commercial credit risk
+* M&A financial due diligence
+* ESG and regulatory reporting
+
+I’m especially interested in the intersection of financial analytics, business operations, and strategic consulting within high-growth software companies.
+
+📬 Reach me via:
+LinkedIn: [https://www.linkedin.com/in/rebecca-amaning-kwarteng-05a4b6283/]
+Email: [Amaningkwartengrebecca@gmail.com]

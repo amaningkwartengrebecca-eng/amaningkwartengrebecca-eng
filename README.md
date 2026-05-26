@@ -1,4 +1,4 @@
-Im Rebecca,a final-year Accounting & finance student building analytics and financial strategy projects focused on SaaS businesses.
+Im Rebecca, a final-year Accounting & finance student building analytics and financial strategy projects focused on SaaS businesses.
 
 Using Power BI, SQL, and Excel, I create commercially driven case studies that explore how data can support operational oversight, risk management, and executive decision-making.
 

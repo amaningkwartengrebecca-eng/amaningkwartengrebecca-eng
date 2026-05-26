@@ -5,6 +5,6 @@ I am an incoming Accounting & Finance graduate venturing into **SaaS Financial O
 ---
 
 ### 📬 You can reach out to me via:
- **[LinkedIn**(https://www.linkedin.com/in/rebecca-amaning-kwarteng-05a4b6283/)
+ **LinkedIn**(https://www.linkedin.com/in/rebecca-amaning-kwarteng-05a4b6283/)
  
   Email me at **[Amaningkwartengrebecca@gmail.com]**

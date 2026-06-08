@@ -15,7 +15,7 @@ I believe data should **protect people, not just profit**. That's why I focus on
 - **M&A due diligence** – £24m acquisition valuation (ARR + R&D)
 - **ESG compliance** – TCFD gap analysis & IPO roadmap
 
-📺 **Video walkthroughs** in every repo – no downloads required
+📺 **Video walkthroughs** available in every repos ReadME – no downloads required
 
 ## 🎯 What I'm looking for
 

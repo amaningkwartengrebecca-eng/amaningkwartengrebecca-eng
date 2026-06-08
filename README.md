@@ -3,10 +3,7 @@
 ** A Data analyst (in training) | B2B  SaaS finance | SQL · Power BI · Tableu · Excel**
 
 I build commercially driven analytics projects that help businesses spot risk, save money, and make better decisions. My portfolio focuses on **Thornfield Group**, a fictional £40m ARR UK SaaS company.
-
-# 💡 My why
-
-I believe data should **protect people, not just profit**. That's why I focus on fraud detection, credit risk, and compliance,the places where data can prevent harm.
+As,i believe data should **protect people, not just profit**. That's why I focus on fraud detection, credit risk, and compliance,the places where data can prevent harm.
 
 ## 🔍 What you'll find here
 
@@ -15,7 +12,7 @@ I believe data should **protect people, not just profit**. That's why I focus on
 - **M&A due diligence** – £24m acquisition valuation (ARR + R&D)
 - **ESG compliance** – TCFD gap analysis & IPO roadmap
 
-📺 **Video walkthroughs** available in every repos ReadME – no downloads required
+📺 **Video walkthroughs** available in every repos ReadME
 
 ## 🎯 What I'm looking for
 

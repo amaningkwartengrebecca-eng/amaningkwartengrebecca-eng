@@ -4,7 +4,7 @@
 
 I build commercially driven analytics projects that help businesses spot risk, save money, and make better decisions. My portfolio focuses on **Thornfield Group**, a simulated £40m ARR UK SaaS company.
 
-## 💡 My why
+# 💡 My why
 
 I believe data should **protect people, not just profit**. That's why I focus on fraud detection, credit risk, and compliance – the places where data can prevent harm.
 

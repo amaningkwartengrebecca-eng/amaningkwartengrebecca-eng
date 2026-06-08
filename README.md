@@ -2,7 +2,7 @@
 
 **Data analyst (in training) | B2B SaaS finance | SQL · Power BI · Tableu · Excel**
 
-I build commercially driven analytics projects that help businesses spot risk, save money, and make better decisions. My portfolio focuses on **Thornfield Group**, a simulated £40m ARR UK SaaS company.
+I build commercially driven analytics projects that help businesses spot risk, save money, and make better decisions. My portfolio focuses on **Thornfield Group**, a fictional £40m ARR UK SaaS company.
 
 # 💡 My why
 

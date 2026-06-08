@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Rebecca
 
-**Data analyst (in training) | B2B SaaS finance | SQL · Power BI · Tableu · Excel**
+** A Data analyst (in training) | B2B  SaaS finance | SQL · Power BI · Tableu · Excel**
 
 I build commercially driven analytics projects that help businesses spot risk, save money, and make better decisions. My portfolio focuses on **Thornfield Group**, a fictional £40m ARR UK SaaS company.
 
@@ -10,7 +10,7 @@ I believe data should **protect people, not just profit**. That's why I focus on
 
 ## 🔍 What you'll find here
 
-- **Fraud detection** – flagged £224k at risk using SQL + Power BI
+- **Fraud detection** - flagged £224k at risk using SQL + Power BI
 - **Credit risk scorecard** – stress-tested 75 clients, £200k expected loss (currently working on)
 - **M&A due diligence** – £24m acquisition valuation (ARR + R&D)
 - **ESG compliance** – TCFD gap analysis & IPO roadmap

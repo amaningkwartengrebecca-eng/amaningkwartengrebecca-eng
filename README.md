@@ -1,18 +1,26 @@
-Im Rebecca, a final-year Accounting & finance student building analytics and financial strategy projects focused on SaaS businesses.
+# 👋 Hi, I'm Rebecca
 
-Using Power BI, SQL, and Excel, I create commercially driven case studies that explore how data can support operational oversight, risk management, and executive decision-making.
+**Data analyst (in training) | B2B SaaS finance | SQL · Power BI · Excel**
 
-My current portfolio is built around Thornfield Group, a simulated £40m ARR UK B2B SaaS company, covering projects across:
+I build commercially driven analytics projects that help businesses spot risk, save money, and make better decisions. My portfolio focuses on **Thornfield Group**, a simulated £40m ARR UK SaaS company.
 
-* procurement fraud detection
-* commercial credit risk
-* M&A financial due diligence
-* ESG and regulatory reporting
+## 💡 My why
 
-I’m especially interested in the intersection of financial analytics, business operations, and strategic consulting within high-growth software companies.
+I believe data should **protect people, not just profit**. That's why I focus on fraud detection, credit risk, and compliance – the places where data can prevent harm.
 
-📬 Reach me via my:
+## 🔍 What you'll find here
 
-LinkedIn: [https://www.linkedin.com/in/rebecca-amaning-kwarteng-05a4b6283/]
+- **Fraud detection** – flagged £224k at risk using SQL + Power BI
+- **Credit risk scorecard** – stress-tested 75 clients, £200k expected loss
+- **M&A due diligence** – £24m acquisition valuation (ARR + R&D)
+- **ESG compliance** – TCFD gap analysis & IPO roadmap
 
-Email: [Amaningkwartengrebecca@gmail.com]
+📺 **Video walkthroughs** in every repo – no downloads required
+
+## 🎯 What I'm looking for
+
+Exploring graduate roles, entry-level positions, and higher apprenticeships (level 6/7) in data analytics or financial consulting – starting summer 2027.
+
+## 📬 Let's connect
+
+[LinkedIn](https://www.linkedin.com/in/rebecca-amaning-kwarteng-05a4b6283) |  [Email](mailto:Amaningkwartengrebecca@gmail.com) | Based in Sheffield, UK

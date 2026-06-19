@@ -1,7 +1,7 @@
 👋 Hi, I'm Rebecca
 I'm a final-year Accounting & Finance student. I build financial tools for SMEs because the ones out there could be better.
 
-What's youll find:
+What you'll find:
 
 Cashflow Survival Days: A gamified cashflow platform (live, 20+ founders using it)
 
